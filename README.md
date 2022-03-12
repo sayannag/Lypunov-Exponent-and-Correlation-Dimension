@@ -26,7 +26,9 @@ year = {2022}
 
 Usage (on Collab):
 
-'''1. Write your own test script as:'''
+1. Write your own test script as:
+
+```
 
 !git clone https://github.com/sayannag/Lypunov-Exponent-and-Correlation-Dimension.git
 
@@ -53,11 +55,16 @@ def main():
 if __name__ == "__main__":
 
     main()
-    
-'''2. Use the given test script as:'''
+
+```
+2. Use the given test script as:
+
+```
 
 !git clone https://github.com/sayannag/Lypunov-Exponent-and-Correlation-Dimension.git
 
 %cd /content/Lypunov-Exponent-and-Correlation-Dimension/Lypunov-Exponent-and-Correlation-Dimension
 
 !python test_lyapunov_Dc.py
+
+```
