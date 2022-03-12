@@ -74,6 +74,6 @@ if __name__ == "__main__":
 
 %cd /content/Lypunov-Exponent-and-Correlation-Dimension/Lypunov-Exponent-and-Correlation-Dimension
 
-!python test_lyapunov_Dc.py
+!python test_lyapunov_Dc.py --series_type 'converging'
 
 ```
