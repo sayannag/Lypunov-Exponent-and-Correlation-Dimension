@@ -1,4 +1,5 @@
 # Lypunov-Exponent-and-Correlation-Dimension
+
 Calculates the largest Lyapunov exponent and the correlation dimension.
 
 
@@ -11,9 +12,15 @@ If you use this reporsitory please cite as:
 
 APA format:
 
+```
+
 Sayan, N. (2022). Lypunov-Exponent-and-Correlation-Dimension (Version 1.0.0) [Computer software]. https://github.com/sayannag/Lypunov-Exponent-and-Correlation-Dimension
 
+```
+
 BibTeX:
+
+```
 
 @software{Sayan_Lypunov-Exponent-and-Correlation-Dimension_2022,
 author = {Sayan, Nag},
@@ -23,6 +30,8 @@ url = {https://github.com/sayannag/Lypunov-Exponent-and-Correlation-Dimension},
 version = {1.0.0},
 year = {2022}
 }
+
+```
 
 Usage (on Collab):
 
