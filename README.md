@@ -8,9 +8,9 @@ Python implementation of the Objective C code (https://www.physionet.org/content
 
 Reference:
 
-'''
+```
 M.T. Rosenstein, J.J. Collins, C.J. De Luca, A practical method for calculating largest Lyapunov exponents from small data sets, Physica D 65:117-134, 1993.
-'''
+```
 
 If you use this reporsitory please cite as:
 
