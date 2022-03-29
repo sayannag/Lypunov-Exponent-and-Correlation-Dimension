@@ -33,7 +33,7 @@ year = {2022}
 }
 ```
 
-Usage (on Collab):
+Usage (on Colab):
 
 1. Write your own test script as:
 
